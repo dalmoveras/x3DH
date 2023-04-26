@@ -1,2 +1,2 @@
-* [Signal's Double Ratchet Algorithm](https://signal.org/docs/specifications/doubleratchet/)
+* [Signal's X3DH Documentation](https://www.signal.org/docs/specifications/x3dh/)
 
